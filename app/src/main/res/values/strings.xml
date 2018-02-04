@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KHAIRENNIZAMEFID_1202150285_Modul1</string>
+    <string name="cf_eatbus">EATBUS</string>
+    <string name="Nas_duk">Nasi uduk</string>
+    <string name="jumlah_prs">2</string>
+    <string name="makan_malam1">Makan Malam</string>
+    <string name="bersama_milea">dengan Milea</string>
+    <string name="cf_abnormal">ABNORMAL</string>
+    <string name="makan_malam2">Makan Malam</string>
+    <string name="menu_mkn">Menu</string>
+    <string name="nas_duk2">Nasi uduk</string>
+    <string name="porsi_jmlh">Porsi</string>
+    <string name="activity_main2">Study Case</string>
+    <string name="toast_1">Jangan disini makan malamnya uang kamu tidak cukup!</string>
+    <string name="toast_2">Disini aja makan malamnya!</string>
+
+</resources>
